@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork_003</string>
+    <string name="subscription">ПОДПИСКА</string>
+    <string name="yourName">Имя</string>
+    <string name="yourEmail">Эл. почта</string>
+    <string name="buttonOK">OK</string>
+    <string name="buttonClear">Очистить</string>
+</resources>
